@@ -11,5 +11,6 @@
     $datos[7]="img/r4.jpg"."||"."Darling in the Franxx"."||"."Dentro de estas ciudades futuristas, niños y niñas son entrenados para pilotar robots gigantes llamados Franxx, sin saber nada del mundo exterior. Estos jóvenes pilotos son conocidos como parásitos y son enviados a misiones a bordo de los Franxx para combatir a misteriosos enemigos llamados Klaxosaurios.";
     $datos[8]="img/r5.jpg"."||"."Ao no Exorcist"."||"."La historia se centra en Rin Okumura, un adolescente de quince años quien junto a su hermano gemelo, Yukio, fueron criados en una iglesia por el padre Shiro Fujimoto, un exorcista. ... Rin desea convertirse en un exorcista como Shiro, con el objetivo de ser más fuerte y así poder derrotar a Satanás.";
     $datos[9]="img/r6.jpg"."||"."Tengen Toppa Gurren-Lagann"."||"."Argumento. Gurren Lagann tiene lugar en un futuro donde la Tierra está dominada por el Rey Espiral, Lord Genome, que obliga a la humanidad a vivir en aldeas subterráneas aisladas. ... Kamina anima a Simón a unirse a su banda, la Brigada Gurren, para ayudarle a cumplir su sueño de ver el mundo de la superficie.";
+    return $datos;
   }
 ?>
