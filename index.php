@@ -12,7 +12,7 @@
       <div class="col">
         <h1>Imagenes de google</h1>
         <h2>Animes que he visto</h2>
-        asdfasdfasdfasdfasdfasdf
+        
       </div>
     </div>
   </div>
